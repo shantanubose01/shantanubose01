@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://github.com/bharatvishvkarma/github-profile-views-counter">
+<a href="https://github.com/shantanubose01/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shantanubose01">
 </a>
 <a href="https://github.com/shnatanubose01?tab=followers"><img src="https://img.shields.io/github/followers/shantanubose01?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -28,7 +28,7 @@
 ## Connect with me:
 
 <!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
-<a href="https://www.linkedin.com/in/bharatvishvkarma" target="_blank"><img align="left" alt="Bharat | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/shantanubose01" target="_blank"><img align="left" alt="Bharat | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 <!-- <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a> -->
 
