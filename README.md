@@ -1,91 +1,68 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
 
-### <div align="center">I'm Shantanu, a full-time full-stack web developer 👨‍💻 </div>  
-  
+<h1 align="center">Hey👋, I'm Shantanu!</h1>
+<h3 align="center">A passionate full stack developer ❤ from India</h3>
 
-- 🌱 I’m currently learning Reactjs  
-  
+<br>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shnatanubose01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/bharatvishvkarma/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shantanubose01">
 </a>
-<a href="https://linkedin.com/in/shantanubose01" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<a href="https://github.com/shnatanubose01?tab=followers"><img src="https://img.shields.io/github/followers/shantanubose01?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br/>  
+<br>
 
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shantanubose01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
 
-<br/>  
+- 🔭 I’m currently working on *improving my skills*
+- 🌱 I’m currently learning *React js*
+- 👨‍💻 Personal portfolio: *<a href="https://shantanubose-portfolio.netlify.app/" target="_blank">Portfolio</a>*
+- 💬 Ask me about *Web, FrontEnd and BackEnd*
+- 📫 How to reach me: *shantanubose.work@gmail.com*
+<!-- - ⚡ Fun fact *I am half finished* -->
 
-  
+---
 
-<br/>  
+## Connect with me:
 
-  
+<!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
+<a href="https://www.linkedin.com/in/bharatvishvkarma" target="_blank"><img align="left" alt="Bharat | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shantanubose01&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+<!-- <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a> -->
 
 <br />
+<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+
+## 🚀 Languages and Tools:
+
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,bootstrap,nodejs,express,git,github,vscode" />
+
+<br />
+<br />
+
+---
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanubose01&theme=radical&hide_border=true" alt="Shantanubose" /></p>
+
+## 📊 My Github Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shnatanubose01&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Shantanubose" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanubose01&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="shantanubose" /></td
+  </tr>
+</table>
+
+<br>
+
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+
+<br/>
+<br/>
+  
+zsh
+>  check out my repos 👇
