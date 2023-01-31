@@ -64,5 +64,5 @@
 <br/>
 <br/>
   
-zsh
+
 >  check out my repos 👇
